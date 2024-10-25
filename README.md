@@ -1,1 +1,1 @@
-Repository to test snap store publisher vetting automation 
+Repository to test snap store publisher vetting automation
